@@ -1,0 +1,15 @@
+{
+    "to":[
+        // "abhishek12342k1@gmail.com","soumit.workmail812@gmail.com"
+// "mahesh.gn@inspironlabs.com","ashish.t@inspironlabs.com","ayesha.m@inspironlabs.com"
+            // "ashishtanu1995@gmail.com"
+            // ,"ayeshasidiqa024@gmail.com","maheshkurumbar58@gmail.com"
+            "cs19.akansh.chandra@lcit.edu.in"
+    ],
+    "subject": "Test Email",
+    "body": "This is a test email sent from Mahesh.",
+     "attachments": [
+        "C:/Users/MaheshGN/Pictures/Saved Pictures/logo.png"
+    ]
+
+}
